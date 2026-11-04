@@ -1,0 +1,323 @@
+{
+  "validated_at": "2026-11-04T07:21:38.529290+00:00",
+  "total": 35,
+  "active": 35,
+  "inactive": 0,
+  "results": [
+    {
+      "url": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165",
+      "status": 200,
+      "final_url": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165",
+      "active": true,
+      "method": "HEAD",
+      "title": "Full-Stack Developer",
+      "source": "remotive"
+    },
+    {
+      "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135",
+      "status": 200,
+      "final_url": "https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135",
+      "active": true,
+      "method": "HEAD",
+      "title": "Senior Back-end Developer",
+      "source": "remotive"
+    },
+    {
+      "url": "https://remotive.com/remote-jobs/software-development/head-of-engineering-2091134",
+      "status": 200,
+      "final_url": "https://remotive.com/remote-jobs/software-development/head-of-engineering-2091134",
+      "active": true,
+      "method": "HEAD",
+      "title": "Head of Engineering",
+      "source": "remotive"
+    },
+    {
+      "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-trainer-video-annotation-2091161",
+      "status": 200,
+      "final_url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-trainer-video-annotation-2091161",
+      "active": true,
+      "method": "HEAD",
+      "title": "AI Trainer - Video Annotation",
+      "source": "remotive"
+    },
+    {
+      "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158",
+      "status": 200,
+      "final_url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158",
+      "active": true,
+      "method": "HEAD",
+      "title": "Software Engineer, AI Coding Tasks",
+      "source": "remotive"
+    },
+    {
+      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+      "status": 200,
+      "final_url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+      "active": true,
+      "method": "HEAD",
+      "title": "Tech Lead Full-Stack Rails Engineer",
+      "source": "remotive"
+    },
+    {
+      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
+      "status": 200,
+      "final_url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
+      "active": true,
+      "method": "HEAD",
+      "title": "Remote Office Assistant",
+      "source": "remotive"
+    },
+    {
+      "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+      "status": 200,
+      "final_url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+      "active": true,
+      "method": "HEAD",
+      "title": "Inside Sales Contractor",
+      "source": "remotive"
+    },
+    {
+      "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
+      "status": 200,
+      "final_url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
+      "active": true,
+      "method": "HEAD",
+      "title": "Tier III Service Desk Engineer",
+      "source": "remotive"
+    },
+    {
+      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
+      "status": 200,
+      "final_url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
+      "active": true,
+      "method": "HEAD",
+      "title": "Freelance Writer",
+      "source": "remotive"
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/senior-devops-softwareentwicklerin-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-berlin-78196",
+      "status": 200,
+      "final_url": "https://www.arbeitnow.com/jobs/companies/auralis-group/senior-devops-softwareentwicklerin-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-berlin-78196",
+      "active": true,
+      "method": "HEAD",
+      "title": "Senior DevOps Softwareentwickler:in mit Karriereambitionen - jetzt mit uns voll durchstarten!",
+      "source": "arbeitnow"
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/senior-java-softwareentwicklerin-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-berlin-80465",
+      "status": 200,
+      "final_url": "https://www.arbeitnow.com/jobs/companies/auralis-group/senior-java-softwareentwicklerin-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-berlin-80465",
+      "active": true,
+      "method": "HEAD",
+      "title": "Senior Java Softwareentwickler:in mit Karriereambitionen - jetzt mit uns voll durchstarten!",
+      "source": "arbeitnow"
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/yournetwork-michael-marzahn/mitarbeiter-kundenservice-it-servicekoordination-auch-teilzeit-hamburg-368471",
+      "status": 200,
+      "final_url": "https://www.arbeitnow.com/jobs/companies/yournetwork-michael-marzahn/mitarbeiter-kundenservice-it-servicekoordination-auch-teilzeit-hamburg-368471",
+      "active": true,
+      "method": "HEAD",
+      "title": "Mitarbeiter Kundenservice & IT-Servicekoordination (m/w/d) \u2013 auch Teilzeit",
+      "source": "arbeitnow"
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/emetriq-gmbh/senior-ad-operations-manager-performance-marketing-hamburg-318183",
+      "status": 200,
+      "final_url": "https://www.arbeitnow.com/jobs/companies/emetriq-gmbh/senior-ad-operations-manager-performance-marketing-hamburg-318183",
+      "active": true,
+      "method": "HEAD",
+      "title": "(Senior) Ad Operations Manager Performance Marketing (m/w/d)",
+      "source": "arbeitnow"
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/happyrobotai/deployment-strategist-german-speaking-cologne-8823",
+      "status": 200,
+      "final_url": "https://www.arbeitnow.com/jobs/companies/happyrobotai/deployment-strategist-german-speaking-cologne-8823",
+      "active": true,
+      "method": "HEAD",
+      "title": "Deployment Strategist - German Speaking",
+      "source": "arbeitnow"
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/happyrobotai/forward-deployed-engineer-german-speaking-cologne-116832",
+      "status": 200,
+      "final_url": "https://www.arbeitnow.com/jobs/companies/happyrobotai/forward-deployed-engineer-german-speaking-cologne-116832",
+      "active": true,
+      "method": "HEAD",
+      "title": "Forward Deployed Engineer - German Speaking",
+      "source": "arbeitnow"
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/remberg/senior-customer-success-manager-munich-496897",
+      "status": 200,
+      "final_url": "https://www.arbeitnow.com/jobs/companies/remberg/senior-customer-success-manager-munich-496897",
+      "active": true,
+      "method": "HEAD",
+      "title": "Senior Customer Success Manager (f/m/d)",
+      "source": "arbeitnow"
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/simplyright-gmbh/vollzeit-buchhalterin-remote-monheim-am-rhein-328202",
+      "status": 200,
+      "final_url": "https://www.arbeitnow.com/jobs/companies/simplyright-gmbh/vollzeit-buchhalterin-remote-monheim-am-rhein-328202",
+      "active": true,
+      "method": "HEAD",
+      "title": "Vollzeit Buchhalter*in (m/w/d) Remote",
+      "source": "arbeitnow"
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/kion-battery-systems-gmbh/sachbearbeiter-customer-service-reklamationsmanagement-karlstein-am-main-217030",
+      "status": 200,
+      "final_url": "https://www.arbeitnow.com/jobs/companies/kion-battery-systems-gmbh/sachbearbeiter-customer-service-reklamationsmanagement-karlstein-am-main-217030",
+      "active": true,
+      "method": "HEAD",
+      "title": "Sachbearbeiter Customer Service & Reklamationsmanagement (m/w/d)",
+      "source": "arbeitnow"
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-kerpen-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-251256",
+      "status": 200,
+      "final_url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-kerpen-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-251256",
+      "active": true,
+      "method": "HEAD",
+      "title": "Steuerberater (m/w/d) in Kerpen, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000\u20ac",
+      "source": "arbeitnow"
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-rodewisch-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-11238",
+      "status": 200,
+      "final_url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-rodewisch-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-11238",
+      "active": true,
+      "method": "HEAD",
+      "title": "Steuerberater (m/w/d) in Rodewisch, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000\u20ac",
+      "source": "arbeitnow"
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-opfingen-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-282890",
+      "status": 200,
+      "final_url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-opfingen-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-282890",
+      "active": true,
+      "method": "HEAD",
+      "title": "Steuerberater (m/w/d) in \u00d6pfingen, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000\u20ac",
+      "source": "arbeitnow"
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-ellhofen-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-328340",
+      "status": 200,
+      "final_url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-ellhofen-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-328340",
+      "active": true,
+      "method": "HEAD",
+      "title": "Steuerberater (m/w/d) in Ellhofen, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000\u20ac",
+      "source": "arbeitnow"
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-hohn-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-263279",
+      "status": 200,
+      "final_url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-hohn-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-263279",
+      "active": true,
+      "method": "HEAD",
+      "title": "Steuerberater (m/w/d) in H\u00f6hn, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000\u20ac",
+      "source": "arbeitnow"
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-rulzheim-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-354056",
+      "status": 200,
+      "final_url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-rulzheim-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-354056",
+      "active": true,
+      "method": "HEAD",
+      "title": "Steuerberater (m/w/d) in R\u00fclzheim, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000\u20ac",
+      "source": "arbeitnow"
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-weidenthal-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-315337",
+      "status": 200,
+      "final_url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-weidenthal-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-315337",
+      "active": true,
+      "method": "HEAD",
+      "title": "Steuerberater (m/w/d) in Weidenthal, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000\u20ac",
+      "source": "arbeitnow"
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-tonisvorst-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-190428",
+      "status": 200,
+      "final_url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-tonisvorst-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-190428",
+      "active": true,
+      "method": "HEAD",
+      "title": "Steuerberater (m/w/d) in T\u00f6nisvorst, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000\u20ac",
+      "source": "arbeitnow"
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/quince/staff-data-analyst-marketing-188996",
+      "status": 200,
+      "final_url": "https://www.arbeitnow.com/jobs/companies/quince/staff-data-analyst-marketing-188996",
+      "active": true,
+      "method": "HEAD",
+      "title": "Staff Data Analyst, Marketing",
+      "source": "arbeitnow"
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/sonymusicentertainment/senior-creative-marketing-manager-europe-berlin-184159",
+      "status": 200,
+      "final_url": "https://www.arbeitnow.com/jobs/companies/sonymusicentertainment/senior-creative-marketing-manager-europe-berlin-184159",
+      "active": true,
+      "method": "HEAD",
+      "title": "(Senior) Creative Marketing Manager (m/w/d)",
+      "source": "arbeitnow"
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/constructortech/software-engineer-intern-c-bremen-424029",
+      "status": 200,
+      "final_url": "https://www.arbeitnow.com/jobs/companies/constructortech/software-engineer-intern-c-bremen-424029",
+      "active": true,
+      "method": "HEAD",
+      "title": "Software Engineer (Intern, C#)",
+      "source": "arbeitnow"
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/constructortech/senior-technical-product-manager-platform-111631",
+      "status": 200,
+      "final_url": "https://www.arbeitnow.com/jobs/companies/constructortech/senior-technical-product-manager-platform-111631",
+      "active": true,
+      "method": "HEAD",
+      "title": "Senior Technical Product Manager (Platform)",
+      "source": "arbeitnow"
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/constructortech/senior-product-manager-edtech-ai-232898",
+      "status": 200,
+      "final_url": "https://www.arbeitnow.com/jobs/companies/constructortech/senior-product-manager-edtech-ai-232898",
+      "active": true,
+      "method": "HEAD",
+      "title": "Senior Product Manager (EdTech & AI)",
+      "source": "arbeitnow"
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/constructortech/ml-research-intern-in-agentic-runtime-systems-bremen-304446",
+      "status": 200,
+      "final_url": "https://www.arbeitnow.com/jobs/companies/constructortech/ml-research-intern-in-agentic-runtime-systems-bremen-304446",
+      "active": true,
+      "method": "HEAD",
+      "title": "ML Research Intern in Agentic Runtime Systems",
+      "source": "arbeitnow"
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/constructortech/frontend-engineer-intern-bremen-226532",
+      "status": 200,
+      "final_url": "https://www.arbeitnow.com/jobs/companies/constructortech/frontend-engineer-intern-bremen-226532",
+      "active": true,
+      "method": "HEAD",
+      "title": "Frontend Engineer (Intern)",
+      "source": "arbeitnow"
+    },
+    {
+      "url": "https://www.arbeitnow.com/jobs/companies/statista/senior-analyst-hamburg-88423",
+      "status": 200,
+      "final_url": "https://www.arbeitnow.com/jobs/companies/statista/senior-analyst-hamburg-88423",
+      "active": true,
+      "method": "HEAD",
+      "title": "(Senior) Analyst  (m/f/d)",
+      "source": "arbeitnow"
+    }
+  ]
+}
