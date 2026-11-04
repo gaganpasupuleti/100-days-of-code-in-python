@@ -125,11 +125,11 @@ def main() -> int:
 
     print(f"==> Validated {len(results)} links: {active} active, {inactive} inactive")
     print(f"==> Report -> {OUT.relative_to(ROOT)}")
-    for row in results[:8]:
-        flag = "OK" if row["active"] else "DEAD"
-        print(f"  [{flag}] {row['status']} {row['url'][:80]}")
-    if len(results) > 8:
-        print(f"  ... and {len(results) - 8} more in JSON")
+    step = max(1, len(results) // 10)
+    for i, row in enumerate(results):
+        if i % step == 0 or i == len(results) - 1:
+            flag = "OK" if row["active"] else "DEAD"
+            print(f"  [{flag}] {row['status']} {row['url'][:72]}...")
     return 0
 
 

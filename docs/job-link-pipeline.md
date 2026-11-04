@@ -19,7 +19,7 @@ python3 scripts/validate_job_links.py  # writes jobs/link_validation.json
 
 | Step | Script | Output |
 |------|--------|--------|
-| 1. New job run (scrape) | `scrape_job_links.py` | Fetches listings from public APIs (Remotive, Arbeitnow), saves unique URLs |
+| 1. New job run (scrape) | `scrape_job_links.py` | Remotive, Arbeitnow (~300), RemoteOK (~99), Jobicy (paginated) → `jobs/scraped_links.json` |
 | 2. Validate links | `validate_job_links.py` | HTTP HEAD/GET each URL; marks **active** (2xx/3xx) vs **inactive** |
 
 ## Repo note
